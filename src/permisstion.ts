@@ -54,3 +54,8 @@ router.afterEach((to: any, from: any) => {
     // to and from are both route objects.
     nprogress.done()
 })
+
+
+const filter = () => {
+
+}
